@@ -28,3 +28,13 @@ span{
         font-size: 25px;
         color: chartreuse;
         }
+.Blogs-Jaflong{
+    background-color: olive;
+    border: 2px solid yellow;
+    border-radius: 20px;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
